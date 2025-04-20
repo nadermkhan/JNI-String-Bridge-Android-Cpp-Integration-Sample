@@ -5,6 +5,7 @@ plugins {
 android {
     compileSdk 34
     namespace "nademkhan.example.jnistringbridge"
+    ndkVersion "25.2.9519653"
 	
     defaultConfig {
         applicationId "nademkhan.example.jnistringbridge"
